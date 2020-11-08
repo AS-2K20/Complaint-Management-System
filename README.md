@@ -4,7 +4,7 @@ This project Complaint Management System is a Console based application which is
 
 ## Technologies Used:
 
-<a href="https://www.java.com/en/download/help/java8.html" target="_blank"><img title="Java 8" height="64" width="64" src="https://cdn.svgporn.com/logos/java.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"><img title="Oracle SQL" height="76" width="96" src="https://cdn.svgporn.com/logos/oracle.svg" /></a>
+<a href="https://www.java.com/en/download/help/java8.html" target="_blank"><img title="Java 8" height="64" width="64" src="https://cdn.svgporn.com/logos/java.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"><img title="Oracle SQL" height="64" width="96" src="https://cdn.svgporn.com/logos/oracle.svg" /></a>
 
 ## Screenshots:
 
