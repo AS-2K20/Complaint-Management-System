@@ -15,3 +15,7 @@ This project Complaint Management System is a Console based application which is
 I have followed the <a href="https://medium.com/edureka/mvc-architecture-in-java-a85952ae2684">Model View Controller(MVC)</a> Architecture of Java in this application.
 
 ![complaint_management_System3](https://user-images.githubusercontent.com/66553883/98482062-ba9dc180-2224-11eb-972a-2b2e348d5238.png)
+
+## Note:
+
+This is just a backend application which I have developed when I was learning the basics of Java. In the near future, I am planning to reconfigure or remodel this whole backend application into a Full Stack Application.  
