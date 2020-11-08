@@ -8,5 +8,5 @@ This project Complaint Management System is a Console based application which is
 
 ## Screenshots:
 
-![complaint_management_System1](https://user-images.githubusercontent.com/66553883/98481598-4f9ebb80-2221-11eb-9864-079cbe7bd982.png)
+![complaint_management_System2](https://user-images.githubusercontent.com/66553883/98481624-8ecd0c80-2221-11eb-85d0-e4572596db36.png)
 
