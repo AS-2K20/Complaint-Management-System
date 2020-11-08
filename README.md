@@ -5,3 +5,8 @@ This project Complaint Management System is a Console based application which is
 ## Technologies Used:
 
 <a href="https://www.java.com/en/download/help/java8.html" target="_blank"><img title="Java 8" height="64" width="64" src="https://cdn.svgporn.com/logos/java.svg" /></a>
+
+## Screenshots:
+
+![complaint_management_System1](https://user-images.githubusercontent.com/66553883/98481598-4f9ebb80-2221-11eb-9864-079cbe7bd982.png)
+
